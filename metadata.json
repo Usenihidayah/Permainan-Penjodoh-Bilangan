@@ -1,0 +1,6 @@
+{
+  "name": "Susun & Menang: 20 Soalan Penjodoh Bilangan",
+  "description": "Permainan pendidikan interaktif Bahasa Melayu untuk menguasai 20 soalan penjodoh bilangan dengan aktiviti seret dan susun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
